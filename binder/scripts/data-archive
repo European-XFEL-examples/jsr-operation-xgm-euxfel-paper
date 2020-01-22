@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir -p ./SCS/201831/p900048/raw/r0183/
 cp -r /gpfs/exfel/exp/SCS/201831/p900048/raw/r0183/* ./SCS/201831/p900048/raw/r0183
 chmod 644 ./SCS/201831/p900048/raw/r0183/*
