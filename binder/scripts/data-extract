@@ -1,0 +1,4 @@
+tar -xzvf ./data/sa1-201830-p900025-raw-r0149.tar.gz -C ./data/
+
+tar -xzvf ./data/scs-201831-p900048-raw-r0183.tar.gz -C ./data/
+

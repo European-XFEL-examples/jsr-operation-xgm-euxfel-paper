@@ -1,0 +1,13 @@
+mkdir -p ./SCS/201831/p900048/raw/r0183/
+cp -r /gpfs/exfel/exp/SCS/201831/p900048/raw/r0183/* ./SCS/201831/p900048/raw/r0183
+chmod 644 ./SCS/201831/p900048/raw/r0183/*
+tar -czvf scs-201831-p900048-raw-r0183.tar.gz ./SCS/201831/p900048/raw/r0183/
+
+mkdir -p ./SA1/201830/p900025/raw/r0149/
+cp -r /gpfs/exfel/exp/SA1/201830/p900025/raw/r0149/* ./SA1/201830/p900025/raw/r0149/
+chmod 644 ./SCS/201831/p900048/raw/r0183/*
+tar -czvf sa1-201830-p900025-raw-r0149.tar.gz ./SA1/201830/p900025/raw/r0149/
+
+rm -rf ./SCS
+rm -rf ./SA1
+
