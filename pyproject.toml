@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "jsr-operation-xgm-euxfel-paper"
+version = "0.1.0"
+description = "Python environment used for reproducing JSR Operation XGM EuXFEL paper"
+authors = ["Robert Rosca <32569096+RobertRosca@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+ipykernel = "^5.1.3"
+matplotlib = "^3.1.2"
+xarray = "^0.14.1"
+numpy = "^1.18.1"
+karabo-data = "^0.7.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
