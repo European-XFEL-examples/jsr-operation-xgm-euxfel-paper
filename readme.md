@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/European-XFEL-examples/jsr-operation-xgm-euxfel-paper/dev)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/European-XFEL-examples/jsr-operation-xgm-euxfel-paper/dev?filepath=notebooks%2Freadme.ipynb)
 
 Repository containing data and files required to reproduce some of the
 results of the Operation of X-ray gas monitors at the European XFEL paper.
